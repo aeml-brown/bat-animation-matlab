@@ -21,3 +21,7 @@ Best, Julian
 
 As of Aug 2019 I have not ran the code, ultimately I want to incorporate this functionality to the
 biolocomotion toolbok.`
+
+this code contained videos and powerpoint presentation and a bunch of other files that dont belong
+in a code repository. i have made a copy of the original directory that julian gave me and placed it
+in the drive Bat_Durip/julian-original-bat-animation.
